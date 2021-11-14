@@ -44,12 +44,16 @@ The disadvantage is the amount of time and tests you have to put in the refactor
 
 ### Pros and Cons of original and refactoring
 #### Pros and Cons of original code
+**Pros** of the original code is there is no need to create array for volume and price. 
+It does not require the order of the original data to be exactly same as the ticker order we listed on code since it will run the entire loop for every ticker.
+![image](https://user-images.githubusercontent.com/92648619/141702894-1516e015-4100-4616-a5cc-321f0b08f1f7.png)
 
+**Cons** of the original code is the amount of time the code requires to run due to 12 complete loops needed.
 
 #### Pros and Cons of refactoring code
+***Pros*** of the refactoring code is the significant reduction of code executionn time.
+Also, the refactored code only require one For Loop statement, which is easiler to follow and maintain.
 
-Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
+***Cons*** of the refactoring code is any change in the order of the ticker in the original data sheet may results errors due to logic of the refactored code.
 
 
