@@ -36,11 +36,11 @@ The main difference between the original code and refactored code are the number
 
 ### Advantage and Disadvantage of refactoring code
 #### Advantage
-The advantage of refactoring is to shortern the time the module needs to run the code, which helps expand the data the code can be run.
-And refactoring usually means simplier or shorter code module, which can help people understand and maintain the code.
+The advantage of refactoring is to shorten the time the module needs to run the code, which helps expand the data the code can be run.
+Also, refactoring usually means simpler or shorter code module, which can help people understand and maintain the code.
 
 #### Disadvantage
-The disadvantage is the amount of time and tests you have to put in the refactoring. If the results are not significantly better, the return of the time you invest in refacoring code might be very small or even negative.
+The disadvantage is the amount of time and tests you need put in the refactoring. If the results are not significantly better, the return of the time you invest in refactoring code might be very small or even negative.
 
 ### Pros and Cons of original and refactoring
 #### Pros and Cons of original code
@@ -51,8 +51,8 @@ It does not require the order of the original data to be exactly same as the tic
 **Cons** of the original code is the amount of time the code requires to run due to 12 complete loops needed.
 
 #### Pros and Cons of refactoring code
-***Pros*** of the refactoring code is the significant reduction of code executionn time.
-Also, the refactored code only require one For Loop statement, which is easiler to follow and maintain.
+***Pros*** of the refactoring code is the significant reduction of code execution time.
+Also, the refactored code only requires one For Loop statement, which is easier to follow and maintain.
 
 ***Cons*** of the refactoring code is any change in the order of the ticker in the original data sheet may results errors due to logic of the refactored code.
 
