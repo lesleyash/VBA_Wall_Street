@@ -27,8 +27,6 @@ The main difference between the original code and refactored code are the number
 ![image](https://user-images.githubusercontent.com/92648619/141702367-f7499d6b-e557-4639-a077-1de86adf6850.png)
 ![image](https://user-images.githubusercontent.com/92648619/141702379-efb31e42-03cf-422c-b0fa-6d447db93b34.png)
 
-
-
 #### Execution time of refactored code
 ![VBA_Challenge_2017](https://user-images.githubusercontent.com/92648619/141702269-f7e6a58e-e1fb-4fa9-a506-c04c83d1861a.png)
 ![VBA_Challenge_2018](https://user-images.githubusercontent.com/92648619/141702259-7934e1bc-aec6-4f64-ab7f-1a98874d2e60.png)
@@ -38,11 +36,18 @@ The main difference between the original code and refactored code are the number
 
 ### Advantage and Disadvantage of refactoring code
 #### Advantage
+The advantage of refactoring is to shortern the time the module needs to run the code, which helps expand the data the code can be run.
+And refactoring usually means simplier or shorter code module, which can help people understand and maintain the code.
+
 #### Disadvantage
+The disadvantage is the amount of time and tests you have to put in the refactoring. If the results are not significantly better, the return of the time you invest in refacoring code might be very small or even negative.
 
 ### Pros and Cons of original and refactoring
 #### Pros and Cons of original code
+
+
 #### Pros and Cons of refactoring code
+
 Summary: In a summary statement, address the following questions.
 What are the advantages or disadvantages of refactoring code?
 How do these pros and cons apply to refactoring the original VBA script?
