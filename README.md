@@ -2,9 +2,9 @@
 Assignment for VBA_Wall_Street
 
 ## Overview of Project
-Overview of Project: Explain the purpose of this analysis
 ### Purpose
-The purpose of the analysis is to help Louise to understand how the outcomes of campaigns are related to launch dates and funding goals.
+The purpose of the analysis is to help Steve analyze the performance of stock in terms of return and trading volumes
+We will also refactor the original code to reduce the excution time of the VBA module
 
 ## Results
 Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
