@@ -36,7 +36,7 @@ The main difference between the original code and refactored code are the number
 
 ### Advantage and Disadvantage of refactoring code
 #### Advantage
-The advantage of refactoring is to shorten the time the module needs to run the code, which helps expand the data the code can be run.
+The advantage of refactoring is to shorten the time that the module needs to run, which will be particularly useful when we have a large amount of data.
 Also, refactoring usually means simpler or shorter code module, which can help people understand and maintain the code.
 
 #### Disadvantage
