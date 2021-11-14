@@ -3,11 +3,11 @@ Assignment for VBA_Wall_Street
 
 ## Overview of Project
 ### Purpose
-The purpose of the analysis is to help Steve analyze the performance of stock in terms of return and trading volumes
+The purpose of the analysis is to help Steve analyze the performance of stock in terms of return and trading volumes. 
 We will also refactor the original code to reduce the execution time of the VBA module
 
 ## Results
-Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+
 ### Stock Performance
  - Based on the stock performance results shown in the table below, the selected stocks generated a much better return in year 2017 than 2018.
  - Stocks ticker **RUN** and **ENPH** are the best performers in year 2018 
