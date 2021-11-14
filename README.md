@@ -3,7 +3,7 @@ Assignment for VBA_Wall_Street
 
 ## Overview of Project
 ### Purpose
-The purpose of the analysis is to help Steve analyze the performance of stock in terms of return and trading volumes. 
+The purpose of the analysis is to help Steve analyze the performance of stock in terms of the stock return and the trading volumes. 
 We will also refactor the original code to reduce the execution time of the VBA module
 
 ## Results
