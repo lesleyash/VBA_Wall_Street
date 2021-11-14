@@ -46,6 +46,7 @@ The disadvantage is the amount of time and tests you need put in the refactoring
 #### Pros and Cons of original code
 **Pros** of the original code is there is no need to create array for volume and price. 
 It does not require the order of the original data to be exactly same as the ticker order we listed on code since it will run the entire loop for every ticker.
+
 ![image](https://user-images.githubusercontent.com/92648619/141702894-1516e015-4100-4616-a5cc-321f0b08f1f7.png)
 
 **Cons** of the original code is the amount of time the code requires to run due to 12 complete loops needed.
@@ -54,6 +55,5 @@ It does not require the order of the original data to be exactly same as the tic
 ***Pros*** of the refactoring code is the significant reduction of code execution time.
 Also, the refactored code only requires one For Loop statement, which is easier to follow and maintain.
 
-***Cons*** of the refactoring code is any change in the order of the ticker in the original data sheet may results errors due to logic of the refactored code.
-
+***Cons*** of the refactoring code is any change on the order of ticker in the original data sheet may result errors as the refactored code need to run the scripts based on the order of the ticker index.
 
