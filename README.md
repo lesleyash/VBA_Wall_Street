@@ -53,7 +53,7 @@ It does not require the order of the original data to be exactly same as the tic
 
 #### Pros and Cons of refactoring code
 ***Pros*** of the refactoring code is the significant reduction of code execution time.
-Also, the refactored code only requires one For Loop statement, which is easier to follow and maintain.
+Also, the refactored code only requires one ***For Loop*** statement, which is easier to follow and maintain.
 
 ***Cons*** of the refactoring code is any change on the order of ticker in the original data sheet may result errors as the refactored code need to run the scripts based on the order of the ticker index.
 
